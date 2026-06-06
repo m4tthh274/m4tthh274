@@ -1,23 +1,15 @@
-# 👋 Olá, eu sou o Matheus
+# E aí, eu sou o Matheus 👋
 
-🎓 Estudante de Engenharia da Computação
+Estudante de Engenharia da Computação.
 
-💻 Interesse em:
-- Infraestrutura
-- Hardware
-- Redes
-- Cloud Computing
+Criei esse GitHub para documentar meus estudos, projetos da faculdade e tudo que vou aprendendo pelo caminho.
 
-📚 Atualmente estudando:
-- Git e GitHub
-- Linux
-- Redes
-- Cloud
+Tenho bastante interesse em infraestrutura, hardware, redes e cloud, mas também gosto de entender como as coisas funcionam por trás dos bastidores.
 
-🚀 Projetos em andamento:
-- EcoMapa
-- Estudos de Git/GitHub
-- Laboratórios de Infraestrutura
+Aqui você vai encontrar:
+- Anotações de estudos
+- Projetos acadêmicos
+- Laboratórios e testes
+- Coisas que achei interessantes o suficiente para guardar
 
-📖 Este GitHub é utilizado para documentar meu aprendizado,
-projetos acadêmicos e experiências práticas.
+Seja bem-vindo.
