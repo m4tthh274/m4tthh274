@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus
 
-<!--
-**m4tthh274/m4tthh274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação
 
-Here are some ideas to get you started:
+💻 Interesse em:
+- Infraestrutura
+- Hardware
+- Redes
+- Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudando:
+- Git e GitHub
+- Linux
+- Redes
+- Cloud
+
+🚀 Projetos em andamento:
+- EcoMapa
+- Estudos de Git/GitHub
+- Laboratórios de Infraestrutura
+
+📖 Este GitHub é utilizado para documentar meu aprendizado,
+projetos acadêmicos e experiências práticas.
