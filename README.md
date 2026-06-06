@@ -10,6 +10,6 @@ Aqui você vai encontrar:
 - Anotações de estudos
 - Projetos acadêmicos
 - Laboratórios e testes
-- Coisas que achei interessantes o suficiente para guardar
+- Ideias, testes e coisas que achei interessantes pelo caminho
 
 Seja bem-vindo.
