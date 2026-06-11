@@ -11,4 +11,19 @@ Here you'll find:
 • Labs and experiments
 • Interesting ideas and technologies
 
+---
+
+## ⚙️ Interests
+
+- Infrastructure & Networking
+- Hardware
+- Cloud Computing
+- Linux
+- Automation
+- Computer Architecture
+- Understanding How Systems Work
+- Building and Optimizing Systems
+
+  ---
+
 Welcome!
