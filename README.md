@@ -1,15 +1,14 @@
-# E aí, eu sou o Matheus 👋
+Hi, I'm Matheus 👋
 
-Estudante de Engenharia da Computação.
+Computer Engineering student.
 
-Criei esse GitHub para documentar meus estudos, projetos da faculdade e tudo que vou aprendendo pelo caminho.
+I created this GitHub to document my studies, academic projects and everything I'm learning along the way.
 
-Tenho bastante interesse em infraestrutura, hardware, redes e cloud, mas também gosto de entender como as coisas funcionam.
+Here you'll find:
 
-Aqui você vai encontrar:
-- Anotações de estudos
-- Projetos acadêmicos
-- Laboratórios e testes
-- Ideias, testes e coisas que achei interessantes pelo caminho
+• Study notes
+• Academic projects
+• Labs and experiments
+• Interesting ideas and technologies
 
-Seja bem-vindo.
+Welcome!
